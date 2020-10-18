@@ -1,5 +1,5 @@
 # PC-Assignment1
-`Find shortest path using Matrix-Matrix Multiplication`
+`Find shortest path using Matrix-Matrix Multiplication. Cannon's Algorithm is used, HelloMPI is the implementation of cannon's Algorithm in MPI. Solve.cpp will Generate random graph and find the shortest path. Solve.cpp calls HelloMPI for Matrix-Matrix Multiplication. G.txt is the random graph and A.txt is the result of Matrix Multiplication`
 # Plagiarism Self Declaration:
 `I, Raj Garg , certify that this assignment is my own work,
 and entirely based on my personal study and understanding. I have not copied in part or
